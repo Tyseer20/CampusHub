@@ -160,6 +160,13 @@ This project demonstrates practical implementation of:
 - Reusable Widgets
 - Mobile Application Development
 
+## Download APK
+
+The latest release APK is available in the `release` folder of this repository.
+
+File:
+- release/app-release.apk
+
 ---
 
 ## 👨‍💻 Developer
