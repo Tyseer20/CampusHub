@@ -180,7 +180,7 @@ File:
 
 GitHub:
 https://github.com/Tyseer20
-
+LinkedIn Post: https://www.linkedin.com/posts/tayseer-ayasou-2a8416198_cognifyztechnologies-cognifyz-cognifyztech-ugcPost-7486020495327326208-8O26/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC5V6yAB0qd38IaL1DxWK8K6SOtd186pM9M
 ---
 
 ## 📄 License
