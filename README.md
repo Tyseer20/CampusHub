@@ -1,16 +1,185 @@
-# campushub
+# 🎓 CampusHub
 
-A new Flutter project.
+A modern Flutter-based student management application designed to simplify campus life by providing students with quick access to academic information and essential university services.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Overview
 
-A few resources to get you started if this is your first Flutter project:
+CampusHub is a mobile application developed using **Flutter** that offers students an intuitive and user-friendly platform to manage their academic activities in one place.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The application features a clean Material Design 3 interface and provides modules for attendance tracking, course management, student registration, marks, timetables, and profile management.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+
+### 🔐 Authentication
+- Login Screen
+- Splash Screen
+
+### 🏠 Dashboard
+- Modern dashboard interface
+- Quick access to all modules
+- Professional card-based UI
+
+### 📚 Courses
+- View enrolled courses
+- Instructor information
+- Credit hours
+- Attendance percentage
+- Assignment tracking
+
+### 📅 Timetable
+- Weekly class schedule
+- Organized subject timetable
+
+### 📊 Attendance
+- View attendance records
+- Attendance percentage tracking
+
+### 📝 Marks
+- View academic results
+- Subject-wise marks display
+
+### 👨‍🎓 Student Management
+- Student Registration
+- Student List
+- Local SQLite Database integration
+
+### 👤 Profile
+- Student profile information
+
+### ⚙️ Settings
+- Application settings
+- User preferences
+
+---
+
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- SQLite (sqflite)
+- Material Design 3
+- VS Code
+- Git & GitHub
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+│
+├── core/
+│   ├── constants/
+│   ├── routes/
+│   └── theme/
+│
+├── data/
+├── database/
+├── models/
+├── screens/
+├── widgets/
+│
+├── app.dart
+└── main.dart
+```
+
+---
+
+## 📸 Application Modules
+
+- Splash Screen
+- Login
+- Dashboard
+- Attendance
+- Courses
+- Marks
+- Timetable
+- Student Registration
+- Student List
+- Profile
+- Settings
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/Tyseer20/CampusHub.git
+```
+
+### Navigate to the project
+
+```bash
+cd CampusHub
+```
+
+### Install dependencies
+
+```bash
+flutter pub get
+```
+
+### Run the application
+
+```bash
+flutter run
+```
+
+---
+
+## 📦 Build APK
+
+```bash
+flutter build apk --release
+```
+
+The generated APK will be available in:
+
+```
+build/app/outputs/flutter-apk/app-release.apk
+```
+
+---
+
+## 🎯 Learning Objectives
+
+This project demonstrates practical implementation of:
+
+- Flutter UI Development
+- Navigation & Routing
+- State Management
+- SQLite Database Integration
+- Material Design 3
+- Clean Project Architecture
+- Reusable Widgets
+- Mobile Application Development
+
+---
+
+## 👨‍💻 Developer
+
+**Tayseer Ayasou**
+
+- Full Stack Developer
+- Flutter Mobile Developer
+- Computer Science Engineering Student
+- Chandigarh University
+
+GitHub:
+https://github.com/Tyseer20
+
+---
+
+## 📄 License
+
+This project was developed for educational and internship purposes.
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
